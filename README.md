@@ -9,7 +9,7 @@
 <div align="center">
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=coderanandmaurya&label=Profile%20views&color=0e75b6&style=plastic" alt="coderanandmaurya" /> 
+	<img src="https://komarev.com/ghpvc/?username=ap-bhattacharya&label=Profile%20views&color=0e75b6&style=plastic" alt="ap-bhattacharya" /> 
 </p>
 
 # 💻 Tech Stack:
