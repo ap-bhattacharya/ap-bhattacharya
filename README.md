@@ -8,6 +8,10 @@
 
 <div align="center">
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=coderanandmaurya&label=Profile%20views&color=0e75b6&style=plastic" alt="coderanandmaurya" /> 
+</p>
+
 # 💻 Tech Stack:
 
 <h3 align="center">Machine</h3>
