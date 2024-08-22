@@ -18,6 +18,12 @@
 
  </div>
 
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ap-bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ap-bhattacharya" height="30" width="40" /></a>
+<a href="https://instagram.com/a_p_bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_p_bhattacharya" height="30" width="40" /></a>
+</p>
+
  <h3 align="center">Skills</h3>
  
  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  ![Artificial Intelligence] ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
