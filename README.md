@@ -1,7 +1,3 @@
-
-
-<img src="https://media.licdn.com/dms/image/D5616AQGgZfBiYkf0fA/profile-displaybackgroundimage-shrink_350_1400/0/1712568157719?e=1719446400&v=beta&t=Zu2Uy70IVfqKfaXPIUZCm-Y0H-7YclBakF9PgWa6OHk" width="1200">
- 
 <h1 align="center">Hi 👋, I'm Arunangshu Prasad Bhattacharya</h1>
 <h2 align="center">Machine Learning Engineer | Data Scientist | Artificial Intelligence Enthusiast</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
